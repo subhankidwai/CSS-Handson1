@@ -1,0 +1,33 @@
+.AboutCSS{
+    color: brown;
+    line-height: 40px;
+    font-weight: 700;
+}
+
+.text1{
+    text-decoration: line-through;
+}
+.text2{
+    background-color: yellow;
+}
+.text3{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.heading2{
+    font-style: italic;
+    color: red;
+}
+
+.text5{
+    color: brown;
+    letter-spacing: 4px;
+}
+
+.link{
+    text-decoration: none;
+    font-style: italic;
+    color: brown;
+    background-color: yellow;
+}
